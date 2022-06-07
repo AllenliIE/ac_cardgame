@@ -10,6 +10,6 @@ click and match the card in HTML
 
 ### Section of the function
 - if cards match the same number and symbol
-score `+= 10`
-keep the current card opening
+1. score `+= 10`
+2. keep the current card opening
 - if `score === 260` render `GameFinished`
